@@ -1,4 +1,4 @@
-""" 仿設翻轉 """
+""" 透視翻轉 """
 import numpy as np
 import cv2
 
