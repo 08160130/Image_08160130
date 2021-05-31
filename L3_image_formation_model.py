@@ -22,7 +22,7 @@ def main( ):
 	nr, nc = img.shape[:2]
 	x0 = nr // 2
 	y0 = nc // 2
-	sigma = 400
+	sigma = 400   #打光半徑
 	img2 = image_formation_model( img, x0, y0, sigma )
 	cv2.imshow( "Original Image", img )
 	cv2.imshow( "Image Formation Model", img2 )
