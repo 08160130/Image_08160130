@@ -1,4 +1,4 @@
-"""漸層直方圖"""
+""" 漸層直方圖 """
 import numpy as np
 import cv2
 
