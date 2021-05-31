@@ -1,3 +1,4 @@
+""" 顯示像素資訊 """
 import numpy as np
 import cv2
 
