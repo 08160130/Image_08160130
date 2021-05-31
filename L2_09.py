@@ -1,4 +1,4 @@
-"""西洋棋盤"""
+""" 西洋棋盤 """
 import numpy as np
 import math
 import cv2
