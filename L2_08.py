@@ -1,4 +1,4 @@
-"""正弦函數的灰階影像"""
+""" 正弦函數的灰階影像 """
 import numpy as np
 import math
 import cv2
